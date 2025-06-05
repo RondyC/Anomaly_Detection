@@ -69,6 +69,3 @@
 - `PyTorch`, `NumPy`, `Matplotlib`, `Scikit-learn`, `SciPy`
 
 ---
-
-### 📂 Структура проекта:
-
